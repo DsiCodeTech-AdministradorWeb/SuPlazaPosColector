@@ -127,7 +127,7 @@ namespace PosColector.ViewForms
             this.pnlPurchasesOrder.Location = new System.Drawing.Point(0, 0);
             this.pnlPurchasesOrder.Margin = new System.Windows.Forms.Padding(4);
             this.pnlPurchasesOrder.Name = "pnlPurchasesOrder";
-            this.pnlPurchasesOrder.Size = new System.Drawing.Size(957, 682);
+            this.pnlPurchasesOrder.Size = new System.Drawing.Size(958, 683);
             this.pnlPurchasesOrder.TabIndex = 0;
             // 
             // label1
@@ -302,7 +302,7 @@ namespace PosColector.ViewForms
             this.AutoScaleDimensions = new System.Drawing.SizeF(144F, 144F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.AutoScroll = true;
-            this.ClientSize = new System.Drawing.Size(957, 682);
+            this.ClientSize = new System.Drawing.Size(958, 683);
             this.Controls.Add(this.pnlPurchasesOrder);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
